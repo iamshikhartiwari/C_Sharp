@@ -1,0 +1,14 @@
+/Users/shikhartiwari/Desktop/cSharp/ElectronicGadgets/bin/Debug/net8.0/ElectronicGadgets
+/Users/shikhartiwari/Desktop/cSharp/ElectronicGadgets/bin/Debug/net8.0/ElectronicGadgets.deps.json
+/Users/shikhartiwari/Desktop/cSharp/ElectronicGadgets/bin/Debug/net8.0/ElectronicGadgets.runtimeconfig.json
+/Users/shikhartiwari/Desktop/cSharp/ElectronicGadgets/bin/Debug/net8.0/ElectronicGadgets.dll
+/Users/shikhartiwari/Desktop/cSharp/ElectronicGadgets/bin/Debug/net8.0/ElectronicGadgets.pdb
+/Users/shikhartiwari/Desktop/cSharp/ElectronicGadgets/obj/Debug/net8.0/ElectronicGadgets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shikhartiwari/Desktop/cSharp/ElectronicGadgets/obj/Debug/net8.0/ElectronicGadgets.AssemblyInfoInputs.cache
+/Users/shikhartiwari/Desktop/cSharp/ElectronicGadgets/obj/Debug/net8.0/ElectronicGadgets.AssemblyInfo.cs
+/Users/shikhartiwari/Desktop/cSharp/ElectronicGadgets/obj/Debug/net8.0/ElectronicGadgets.csproj.CoreCompileInputs.cache
+/Users/shikhartiwari/Desktop/cSharp/ElectronicGadgets/obj/Debug/net8.0/ElectronicGadgets.dll
+/Users/shikhartiwari/Desktop/cSharp/ElectronicGadgets/obj/Debug/net8.0/refint/ElectronicGadgets.dll
+/Users/shikhartiwari/Desktop/cSharp/ElectronicGadgets/obj/Debug/net8.0/ElectronicGadgets.pdb
+/Users/shikhartiwari/Desktop/cSharp/ElectronicGadgets/obj/Debug/net8.0/ElectronicGadgets.genruntimeconfig.cache
+/Users/shikhartiwari/Desktop/cSharp/ElectronicGadgets/obj/Debug/net8.0/ref/ElectronicGadgets.dll
